@@ -13,7 +13,7 @@
 ## 🎓 Certifications:
 
 * AWS Certified Developer Associate - Issued Sep 2023
-* LambdaTest Test Automation Profile - Issued Jul 2023
+* LambdaTest Test Automation Professional - Issued Jul 2023
 * Introduction to Generative AI - Issued Sep 2024
 
 ## 📜  Education:
